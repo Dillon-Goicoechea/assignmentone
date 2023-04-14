@@ -1,1 +1,2 @@
-
+fork(),execvp(),and wait() time to run: 5.555467 
+system() time to run: 5.637256 
